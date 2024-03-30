@@ -1,5 +1,5 @@
 {
-  "name": "nging-cli",
+  "name": "nginx-to-cli",
   "version": "1.0.0",
   "description": "A CLI for conveniently managing nginx with familiar commands",
   "main": "./build/src/index.js",
