@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "outDir": "build",
+        "module": "commonjs",
+        "checkJs": true,
+        "target": "ESNext",
+        "strict": true,
+        "resolveJsonModule": true,
+        "esModuleInterop": true
+    },
+    "include": ["src/**/*"]
+}
