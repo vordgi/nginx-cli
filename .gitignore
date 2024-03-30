@@ -1,0 +1,10 @@
+# build
+build
+*.tgz
+
+# local files
+*.local.*
+*.local
+
+# packages
+node_modules
