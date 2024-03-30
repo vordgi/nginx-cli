@@ -1,11 +1,11 @@
-# nginx-cli
+# nginx-to-cli
 
 A CLI for conveniently managing nginx with familiar commands (*currently only on Windows*)
 
 ## Installation
 
 ```bash
-npm i nginx-cli -g
+npm i nginx-to-cli -g
 ```
 
 Then you need to configure the utility by specifying the absolute path to the installed nginx:
@@ -59,4 +59,4 @@ ng root -v
 
 ## License
 
-[MIT](https://github.com/vordgi/nginx-cli/blob/main/LICENSE)
+[MIT](https://github.com/vordgi/nginx-to-cli/blob/main/LICENSE)
