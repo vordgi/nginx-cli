@@ -1,7 +1,7 @@
 {
   "name": "nging-cli",
   "version": "1.0.0",
-  "description": "Nginx CLI",
+  "description": "A CLI for conveniently managing nginx with familiar commands",
   "main": "./build/src/index.js",
   "bin": {
     "ng": "./build/src/index.js"
